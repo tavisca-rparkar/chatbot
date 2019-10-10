@@ -1,0 +1,28 @@
+.form {
+  border: solid;
+  border-width: 1px;
+  width: 100%;
+  height: 90%;
+  position: absolute;
+  top: 10%;
+}
+form {
+  position: relative;
+}
+
+label,
+input,
+button,
+select,
+option {
+  margin: 2%;
+}
+
+input {
+  width: 70%;
+  display: block;
+}
+label {
+  width: 30%;
+  display: block;
+}
